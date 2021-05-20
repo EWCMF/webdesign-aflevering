@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="122.16692mm"
+   height="73.760201mm"
+   viewBox="0 0 122.16692 73.760201"
+   version="1.1"
+   id="svg903"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs897">
+    <rect
+       x="18.898809"
+       y="89.202377"
+       width="135.31548"
+       height="45.357143"
+       id="rect1490" />
+    <rect
+       x="13.607143"
+       y="46.113094"
+       width="144.3869"
+       height="106.58929"
+       id="rect1480" />
+    <rect
+       x="13.607143"
+       y="27.214287"
+       width="160.2619"
+       height="191.25595"
+       id="rect1474" />
+    <rect
+       x="36.285713"
+       y="39.309525"
+       width="150.43452"
+       height="129.26785"
+       id="rect1468" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.88"
+     inkscape:cx="400.75302"
+     inkscape:cy="260.42583"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata900">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0.19923764,-0.10143539)">
+    <text
+       xml:space="preserve"
+       id="text1466"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1468);fill:#000000;fill-opacity:1;stroke:none;" />
+    <text
+       xml:space="preserve"
+       id="text1472"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;white-space:pre;shape-inside:url(#rect1474);fill:#000000;fill-opacity:1;stroke:none;" />
+    <text
+       xml:space="preserve"
+       id="text1488"
+       style="font-size:10.5833px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;white-space:pre;shape-inside:url(#rect1490);" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.264583"
+       x="100.54166"
+       y="104.32143"
+       id="text1496"><tspan
+         sodipodi:role="line"
+         id="tspan1494"
+         x="100.54166"
+         y="104.32143"
+         style="stroke-width:0.264583"></tspan></text>
+    <rect
+       style="fill:#061a3b;fill-opacity:1;stroke:#ffffff;stroke-width:0.767;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1508"
+       width="121.39992"
+       height="72.993202"
+       x="0.18426237"
+       y="0.4849354" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     transform="translate(0.19923764,-0.10143539)">
+    <text
+       xml:space="preserve"
+       style="font-size:50.8px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       x="7.7313318"
+       y="66.755745"
+       id="text1506"><tspan
+         sodipodi:role="line"
+         id="tspan1504"
+         x="7.7313318"
+         y="66.755745"
+         style="font-size:50.8px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583">News</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1478"
+       style="font-size:25.4px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;white-space:pre;shape-inside:url(#rect1480);fill:#929396;fill-opacity:1;"
+       transform="matrix(1.1047431,0,0,1.1047431,-5.9944409,-48.206632)"><tspan
+         x="13.607422"
+         y="68.152246"><tspan
+           style="shape-inside:url(#rect1480)">ProTech</tspan></tspan></text>
+  </g>
+</svg>

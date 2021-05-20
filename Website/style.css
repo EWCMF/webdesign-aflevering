@@ -1,0 +1,71 @@
+body {
+    background-color: black;
+    /* background-color: #196FFA; */
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+#logo {
+    width: 4rem;
+    height: auto
+}
+
+#banner {
+    width: 100%;
+    height: 8rem;
+    object-fit: cover;
+}
+
+#content {
+    background-color: #061A3B;
+}
+
+.active {
+    font-weight: bolder;
+}
+
+.navbar {
+    background-color: #1353BA;
+}
+
+#card {
+    background-color: #061A3B;
+    border: solid;
+    border-color: black;
+    border-bottom-width: 2px;
+    border-top-width: 2px;
+}
+
+.info-text {
+    font-weight: 100;
+    color: thistle;
+}
+
+.next-button {
+    font-weight: bolder;
+    font-size: x-large;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: #0C376A;
+    border-radius: 24px;
+    border-color: black;
+    border-style: groove;
+    color: inherit;
+    text-decoration: none;
+}
+
+.next-button:hover {
+    color: inherit;
+}
+
+.img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.footer {
+    border-top-style: solid;
+    border-color: black;
+    background-color: #1353BA;
+}
